@@ -1,2 +1,1 @@
-# kata46
-katakana training
+# kata46 v1.0
